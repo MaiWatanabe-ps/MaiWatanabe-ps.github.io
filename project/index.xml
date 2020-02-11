@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Mai Watanabe</title>
+    <link>https://.github.io/project/</link>
+    <description>Recent content in Projects on Mai Watanabe</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year} Mai Watanabe · Hosted on Github Pages. </copyright>
+    <lastBuildDate>Fri, 24 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Supercomplex of photosystem and antenna —organization and function—</title>
+      <link>https://.github.io/project/light-signaling/</link>
+      <pubDate>Fri, 24 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://.github.io/project/light-signaling/</guid>
+      <description>
+
+&lt;h2 id=&#34;from-environmental-input-to-physiological-output&#34;&gt;From environmental input, To physiological output&lt;/h2&gt;
+
+&lt;p&gt;I&amp;rsquo;m interested in a supermolecular organization of photosystem complexes. My lovely target organisms are cyanobacteria. They perform oxygen-evolving photosynthesis using two photosystems, photosystem I and photosystem II. The name of cyanobacteria comes from their &amp;ldquo;blue-green&amp;rdquo; color. But cyanobacteria are more colorful, not only the blue-green but also red, purple, pink and more. The color palette is thanks to their major antenna protein complex &lt;strong&gt;&amp;ldquo;phycobilisome&amp;rdquo;&lt;/strong&gt;. Phycobilisome is composed of many colorful chromophore-binding proteins, phycobiliproteins, and their associated linker proteins. The typical phycobilisome consists of several peripheral rods radially projected from a core. A rod-core linker protein CpcG anchors the rod to the core.&lt;/p&gt;
+
+&lt;p&gt;Optimization of the photosynthesis is vital for photosynthetic organisms to survive a continually changing environment. Re-organization of light-harvesting antenna systems and photosystems is the primary way for that. Previously, I discovered a novel supercomplex of the photosystem I and a specific phycobilisome, &lt;strong&gt;CpcL-phycobilisome&lt;/strong&gt;, from &lt;em&gt;Anabaena&lt;/em&gt; sp. PCC 7120. CpcL-phycobilisome is a rod-type phycobilisome that lacks the core components. It is directly connected with the photosystem I specifically by a linker protein CpcL to form a &lt;strong&gt;Phycobilisome-CpcL-Photosystem I supercomplex&lt;/strong&gt;. Both the typical phycobilisome and the CpcL-phycobilisome can transfer the energy to photosystem I. However, how the cells control the two different types of phycobilisome remains elusive. I aim to reveal the molecular mechanisms of how environmental input can affect the organization of the two distinct phycobilisomes. And also, I want to uncover what is the difference in the physiological roles of the two phycobilisomes as the photosystem I antenna.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

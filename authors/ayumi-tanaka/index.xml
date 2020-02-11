@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ayumi Tanaka on Mai Watanabe</title>
+    <link>https://.github.io/authors/ayumi-tanaka/</link>
+    <description>Recent content in Ayumi Tanaka on Mai Watanabe</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year} Mai Watanabe · Hosted on Github Pages. </copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://.github.io/authors/ayumi-tanaka/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PCoM-DB update: a protein co-migration database for photosynthetic organisms</title>
+      <link>https://.github.io/publication/takabayashi-2017-pcom-db/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://.github.io/publication/takabayashi-2017-pcom-db/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

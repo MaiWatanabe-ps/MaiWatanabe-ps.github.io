@@ -1,0 +1,192 @@
+@article{watanabe2009photosystem,
+  title={Is the photosystem II complex a monomer or a dimer?},
+  author={Watanabe, Mai and Iwai, Masako and Narikawa, Rei and Ikeuchi, Masahiko},
+  journal={Plant and cell physiology},
+  volume={50},
+  number={9},
+  pages={1674--1680},
+  year={2009},
+  publisher={Oxford University Press}
+}
+
+@article{ikeda2008photosystem,
+  title={Photosystem I complexes associated with fucoxanthin-chlorophyll-binding proteins from a marine centric diatom, Chaetoceros gracilis},
+  author={Ikeda, Yohei and Komura, Masayuki and Watanabe, Mai and Minami, Chie and Koike, Hiroyuki and Itoh, Shigeru and Kashino, Yasuhiro and Satoh, Kazuhiko},
+  journal={Biochimica et Biophysica Acta (BBA)-Bioenergetics},
+  volume={1777},
+  number={4},
+  pages={351--361},
+  year={2008},
+  publisher={Elsevier}
+}
+
+@article{watanabe2010novel,
+  title={Novel supercomplex organization of photosystem I in Anabaena and Cyanophora paradoxa},
+  author={Watanabe, Mai and Kubota, Hisako and Wada, Hajime and Narikawa, Rei and Ikeuchi, Masahiko},
+  journal={Plant and cell physiology},
+  volume={52},
+  number={1},
+  pages={162--168},
+  year={2010},
+  publisher={Oxford University Press}
+}
+
+@article{watanabe2013phycobilisome,
+  title={Phycobilisome: architecture of a light-harvesting supercomplex},
+  author={Watanabe, Mai and Ikeuchi, Masahiko},
+  journal={Photosynthesis research},
+  volume={116},
+  number={2-3},
+  pages={265--276},
+  year={2013},
+  publisher={Springer Netherlands}
+}
+
+@article{watanabe2014attachment,
+  title={Attachment of phycobilisomes in an antenna--photosystem I supercomplex of cyanobacteria},
+  author={Watanabe, Mai and Semchonok, Dmitry A and Webber-Birungi, Mariam T and Ehira, Shigeki and Kondo, Kumiko and Narikawa, Rei and Ohmori, Masayuki and Boekema, Egbert J and Ikeuchi, Masahiko},
+  journal={Proceedings of the National Academy of Sciences},
+  volume={111},
+  number={7},
+  pages={2512--2517},
+  year={2014},
+  publisher={National Academy of Sciences}
+}
+
+@article{watanabe2012phycobilisome,
+  title={Phycobilisome model with novel skeleton-like structures in a glaucocystophyte Cyanophora paradoxa},
+  author={Watanabe, Mai and Sato, Momoko and Kondo, Kumiko and Narikawa, Rei and Ikeuchi, Masahiko},
+  journal={Biochimica et Biophysica Acta (BBA)-Bioenergetics},
+  volume={1817},
+  number={8},
+  pages={1428--1435},
+  year={2012},
+  publisher={Elsevier}
+}
+
+@inproceedings{watanabe2007function,
+  title={Function of a soluble NAD (P) H oxidoreductase in Synechocystis sp PCC 6803.},
+  author={Watanabe, Mai and Nasrin, Zannatul and Koike, Hiroyuki and Kashino, Yasuhiro and Sato, Kazuhiko},
+  booktitle={PLANT AND CELL PHYSIOLOGY},
+  volume={48},
+  pages={S173--S173},
+  year={2007},
+  organization={OXFORD UNIV PRESS GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND}
+}
+
+@incollection{watanabe2013supercomplex,
+  title={Supercomplex Organizations and Evolution of Photosystems I and II (Anabaena sp. PCC 7120, Cyanophora Paradoxa and Cyanidioschyzon Merolae)},
+  author={Watanabe, Mai and Kubota, Hisako and Wada, Hajime and Narikawa, Rei and Ikeuchi, Masahiko},
+  booktitle={Photosynthesis Research for Food, Fuel and the Future},
+  pages={13--16},
+  year={2013},
+  publisher={Springer, Berlin, Heidelberg}
+}
+
+@incollection{watanabe2008reconstitution,
+  title={Reconstitution of Cyclic Electron Transport in Synechocystis sp. PCC 6803 by a Cell-Free System},
+  author={Watanabe, Mai and Kashino, Yasuhiro and Satoh, Kazuhiko and Koike, Hiroyuki and Tsimilli-Michael, Merope and Strasser, Reto J},
+  booktitle={Photosynthesis. Energy from the Sun},
+  pages={703--707},
+  year={2008},
+  publisher={Springer, Dordrecht}
+}
+
+@article{kumagai2018solar,
+  title={Solar-panel and parasol strategies shape the proteorhodopsin distribution pattern in marine Flavobacteriia},
+  author={Kumagai, Yohei and Yoshizawa, Susumu and Nakajima, Yu and Watanabe, Mai and Fukunaga, Tsukasa and Ogura, Yoshitoshi and Hayashi, Tetsuya and Oshima, Kenshiro and Hattori, Masahira and Ikeuchi, Masahiko and others},
+  journal={The ISME journal},
+  volume={12},
+  number={5},
+  pages={1329},
+  year={2018},
+  publisher={Nature Publishing Group}
+}
+
+@article{fujisawa2016cyanobase,
+  title={CyanoBase: a large-scale update on its 20th anniversary},
+  author={Fujisawa, Takatomo and Narikawa, Rei and Maeda, Shin-ichi and Watanabe, Satoru and Kanesaki, Yu and Kobayashi, Koichi and Nomata, Jiro and Hanaoka, Mitsumasa and Watanabe, Mai and Ehira, Shigeki and others},
+  journal={Nucleic acids research},
+  volume={45},
+  number={D1},
+  pages={D551--D554},
+  year={2016},
+  publisher={Oxford University Press}
+}
+
+@article{kohzuma2017non,
+  title={The non-Mendelian green cotyledon gene in soybean encodes a small subunit of photosystem II},
+  author={Kohzuma, Kaori and Sato, Yutaka and Ito, Hisashi and Okuzaki, Ayako and Watanabe, Mai and Kobayashi, Hideki and Nakano, Michiharu and Yamatani, Hiroshi and Masuda, Yu and Nagashima, Yumi and others},
+  journal={Plant physiology},
+  volume={173},
+  number={4},
+  pages={2138--2147},
+  year={2017},
+  publisher={Am Soc Plant Biol}
+}
+
+@article{hirose2019diverse,
+  title={Diverse Chromatic Acclimation Processes Regulating Phycoerythrocyanin and Rod-Shaped Phycobilisome in Cyanobacteria},
+  author={Hirose, Yuu and Chihong, Song and Watanabe, Mai and Yonekawa, Chinatsu and Murata, Kazuyoshi and Ikeuchi, Masahiko and Eki, Toshihiko},
+  journal={Molecular plant},
+  volume={12},
+  number={5},
+  pages={715--725},
+  year={2019},
+  publisher={Cell Press}
+}
+
+@article{saito2018high,
+  title={High myristic acid content in the cyanobacterium Cyanothece sp. PCC 8801 results from substrate specificity of lysophosphatidic acid acyltransferase},
+  author={Saito, Masakazu and Endo, Kaichiro and Kobayashi, Koichi and Watanabe, Mai and Ikeuchi, Masahiko and Murakami, Akio and Murata, Norio and Wada, Hajime},
+  journal={Biochimica et Biophysica Acta (BBA)-Molecular and Cell Biology of Lipids},
+  volume={1863},
+  number={9},
+  pages={939--947},
+  year={2018},
+  publisher={Elsevier}
+}
+
+@article{hirose2017characterization,
+  title={Characterization of the genuine type 2 chromatic acclimation in the two Geminocystis cyanobacteria},
+  author={Hirose, Yuu and Misawa, Naomi and Yonekawa, Chinatsu and Nagao, Nobuyoshi and Watanabe, Mai and Ikeuchi, Masahiko and Eki, Toshihiko},
+  journal={DNA Research},
+  volume={24},
+  number={4},
+  pages={387--396},
+  year={2017},
+  publisher={Oxford University Press}
+}
+
+@article{takabayashi2017pcom,
+  title={PCoM-DB update: a protein co-migration database for photosynthetic organisms},
+  author={Takabayashi, Atsushi and Takabayashi, Saeka and Takahashi, Kaori and Watanabe, Mai and Uchida, Hiroko and Murakami, Akio and Fujita, Tomomichi and Ikeuchi, Masahiko and Tanaka, Ayumi},
+  journal={Plant and Cell Physiology},
+  volume={58},
+  number={1},
+  pages={e10--e10},
+  year={2017},
+  publisher={Oxford University Press}
+}
+
+@article{kato2019structure,
+  title={Structure of a cyanobacterial photosystem I tetramer revealed by cryo-electron microscopy},
+  author={Kato, Koji and Nagao, Ryo and Jiang, Tian-Yi and Ueno, Yoshifumi and Yokono, Makio and Chan, Siu Kit and Watanabe, Mai and Ikeuchi, Masahiko and Shen, Jian-Ren and Akimoto, Seiji and others},
+  journal={Nature communications},
+  volume={10},
+  number={1},
+  pages={1--9},
+  year={2019},
+  publisher={Nature Publishing Group}
+}
+
+@article{hori2014klebsormidium,
+  title={Klebsormidium flaccidum genome reveals primary factors for plant terrestrial adaptation},
+  author={Hori, Koichi and Maruyama, Fumito and Fujisawa, Takatomo and Togashi, Tomoaki and Yamamoto, Nozomi and Seo, Mitsunori and Sato, Syusei and Yamada, Takuji and Mori, Hiroshi and Tajima, Naoyuki and others},
+  journal={Nature communications},
+  volume={5},
+  number={1},
+  pages={1--9},
+  year={2014},
+  publisher={Nature Publishing Group}
+}
